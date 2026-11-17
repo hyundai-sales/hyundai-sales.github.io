@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hyundai_sales.twa",
+      "sha256_cert_fingerprints": [
+        "1B:06:AF:A8:99:02:99:41:85:07:23:68:D4:15:90:F0:86:68:AC:51:58:0A:C0:23:79:00:A5:87:44:DA:33:05"
+      ]
+    }
+  }
+]
